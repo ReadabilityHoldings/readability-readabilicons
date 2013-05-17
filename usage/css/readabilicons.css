@@ -86,6 +86,22 @@
     content: "\e017";
 }
 
+.icon-read-now::before {
+    content: "\e019";
+}
+
+.icon-read-later::before {
+    content: "\e020";
+}
+
+.icon-settings::before {
+    content: "\e021";
+}
+
+.icon-share::before {
+    content: "\e022";
+}
+
 /* --- These styles are just for the demo layout. Nothing to see here --*/
 body {
     font-family: helvetica, sans;
