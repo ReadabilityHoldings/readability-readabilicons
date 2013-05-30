@@ -102,6 +102,10 @@
     content: "\e022";
 }
 
+.icon-down-triangle::before {
+    content: "\e023";
+}
+
 /* --- These styles are just for the demo layout. Nothing to see here --*/
 body {
     font-family: helvetica, sans;
