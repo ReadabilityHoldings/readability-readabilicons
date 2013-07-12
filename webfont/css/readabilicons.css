@@ -1,11 +1,12 @@
 @font-face {
     font-family: 'readabilicons';
-    src: url('../fonts/readabilicons-regular.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/readabilicons-regular.woff') format('woff'),
-         url('../fonts/readabilicons-regular.ttf') format('truetype'),
-         url('../fonts/readabilicons-regular.svg#readabiliconsregular') format('svg');
-    font-weight: normal;
+    src: url('../fonts/readabilicons-regular.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/readabilicons-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('../fonts/readabilicons-regular.woff') format('woff'), /* Modern Browsers */
+        url('../fonts/readabilicons-regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('../fonts/readabilicons-regular.svg#ae40a543b15cd1869d9408843bd35f79') format('svg'); /* Legacy iOS */
     font-style: normal;
+    font-weight: 400;
 }
 
 .icon {
@@ -104,10 +105,6 @@
 
 .icon-down-triangle::before {
     content: "\e023";
-}
-
-.icon-follow-source::before {
-    content: "\e024";
 }
 
 /* --- These styles are just for the demo layout. Nothing to see here --*/
