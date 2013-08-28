@@ -1,5 +1,8 @@
 # Readabilicons - An Icon Font for Readability
 
+## Using SCSS? Sure you are. Here's a module
+
+
 ## Read and reference this article
 http://blog.fogcreek.com/trello-uses-an-icon-font-and-so-can-you/
 
