@@ -5,9 +5,10 @@
 
 ### Don't forget to…
 Base64 encode the .woff and .ttf versions of the font and update the
-SCSS module when you add new glyphs.
+SCSS module when you add new glyphs. Here's an encoder: [http://www.opinionatedgeek.com/dotnet/tools/base64encode/](http://www.opinionatedgeek.com/dotnet/tools/base64encode/)
 
-Here's an encoder: [http://www.opinionatedgeek.com/dotnet/tools/base64encode/](http://www.opinionatedgeek.com/dotnet/tools/base64encode/)
+Also, keep an eye on the id for the .svg. Fontsquirrel, generally keeps it the same
+but It might be different.
 
 ### Read and reference this article
 http://blog.fogcreek.com/trello-uses-an-icon-font-and-so-can-you/
