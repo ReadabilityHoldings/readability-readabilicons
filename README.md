@@ -23,7 +23,7 @@ to the others.
 8. When you're done creating glyphs it's time to export.
 9. File > Export - The settings should be in place. Export it to readabilicons-Regular.otf
 10. Convert the .otf to the other needed formats using the Fontsquirrel settings below.
-11. Replace the existing fonts in `/usage/fonts` with the newly generated fonts.
+11. Replace the existing fonts in `/webfont/fonts` with the newly generated fonts.
 12. Add the new icon(s) to the demo html page and css.
 13. Did you add the new icon(s) to the demo html page and css? Do it!
 
@@ -38,19 +38,15 @@ http://www.fontsquirrel.com/tools/webfont-generator
 - X-height Matching: None
 - Protection: None checked
 - Subsetting: Custom Subsetting...
-- Character Encoding: None checked
-- Character Type: None checked
-- Language: None checked
-- Unicode Tables: None checked
-- Single Characters: Blank
-- Unicode Ranges: E000-F8FF
-- CSS: CSS Filename "readabilicons.css"
+  - Character Encoding: None checked
+  - Character Type: None checked
+  - Language: None checked
+  - Unicode Tables: None checked
+  - Single Characters: Blank
+  - Unicode Ranges: E000-F8FF
+- CSS: Doesn't matter, we don't use this
 - OpenType Options: None checked
 - Advanced Options:
   - Remove "-webfont" from Font Name Suffix
   - Em Square Value: 1920 (This might not be needed)
 - Shortcuts: Check Remember... (for your sanity)
-
-## TODO
-- Hinting - I'm not sure how good these are going to render on Windows without
-andy hinting. Need to test and go from there.
