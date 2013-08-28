@@ -4,7 +4,7 @@
     src: url('../fonts/readabilicons-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
         url('../fonts/readabilicons-regular.woff') format('woff'), /* Modern Browsers */
         url('../fonts/readabilicons-regular.ttf')  format('truetype'), /* Safari, Android, iOS */
-        url('../fonts/readabilicons-regular.svg#ae40a543b15cd1869d9408843bd35f79') format('svg'); /* Legacy iOS */
+        url('../fonts/readabilicons-regular.svg#readabiliconsregular') format('svg'); /* Legacy iOS */
     font-style: normal;
     font-weight: 400;
 }
