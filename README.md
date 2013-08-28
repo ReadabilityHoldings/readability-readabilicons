@@ -1,6 +1,7 @@
 # Readabilicons - An Icon Font for Readability
 
 ## Using SCSS? Sure you are. Here's a module
+[_readabilicons.scss](https://github.com/arc90/readability-readabilicons/blob/master/webfont/css/_readabilicons.scss)
 
 
 ## Read and reference this article
