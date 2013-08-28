@@ -1,13 +1,13 @@
 # Readabilicons - An Icon Font for Readability
 
-## Using SCSS? Sure you are. Here's a module
+### Using SCSS? Sure you are. Here's a module
 [_readabilicons.scss](https://github.com/arc90/readability-readabilicons/blob/master/webfont/css/_readabilicons.scss)
 
 
-## Read and reference this article
+### Read and reference this article
 http://blog.fogcreek.com/trello-uses-an-icon-font-and-so-can-you/
 
-## Adding a new Glyph
+### Adding a new Glyph
 - You'll need
   - Adobe Illustrator CS6+
   - [Glyphs](http://glyphsapp.com/) or [Glyphs Mini](http://glyphsapp.com/glyphs-mini/)
@@ -31,7 +31,7 @@ to the others.
 12. Add the new icon(s) to the demo html page and css.
 13. Did you add the new icon(s) to the demo html page and css? Do it!
 
-## Fontsquirrel settings
+#### Fontsquirrel settings
 http://www.fontsquirrel.com/tools/webfont-generator
 
 - Expert...
