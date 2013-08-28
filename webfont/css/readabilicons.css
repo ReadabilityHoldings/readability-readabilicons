@@ -107,6 +107,14 @@
     content: "\e023";
 }
 
+.icon-hamburger::before {
+    content: "\e024";
+}
+
+.icon-recommend::before {
+    content: "\e025";
+}
+
 /* --- These styles are just for the demo layout. Nothing to see here --*/
 body {
     font-family: helvetica, sans;
