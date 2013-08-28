@@ -3,6 +3,11 @@
 ### Using SCSS? Sure you are. Here's a module
 [_readabilicons.scss](https://github.com/arc90/readability-readabilicons/blob/master/webfont/css/_readabilicons.scss)
 
+### Don't forget to…
+Base64 encode the .woff and .ttf versions of the font and update the
+SCSS module when you add new glyphs.
+
+Here's an encoder: [http://www.opinionatedgeek.com/dotnet/tools/base64encode/](http://www.opinionatedgeek.com/dotnet/tools/base64encode/)
 
 ### Read and reference this article
 http://blog.fogcreek.com/trello-uses-an-icon-font-and-so-can-you/
