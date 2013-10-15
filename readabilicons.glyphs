@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-/uniE034
+/uniE033
 );
 date = "2013-05-04 02:32:56 +0000";
 designer = Readability;
@@ -3845,7 +3845,7 @@ unicode = E032;
 },
 {
 glyphname = uniE033;
-lastChange = "2013-10-15 03:17:17 +0000";
+lastChange = "2013-10-15 13:13:52 +0000";
 layers = (
 {
 layerId = "027024AE-E532-4028-BEC3-F9EC457E971E";
@@ -3854,19 +3854,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"159 10 LINE",
-"64 105 LINE",
-"445 486 LINE",
-"540 391 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"540 105 LINE",
-"445 10 LINE",
-"64 391 LINE",
-"159 486 LINE"
+"441 489 LINE",
+"299 346 LINE",
+"156 489 LINE",
+"60 393 LINE",
+"203 250 LINE",
+"60 108 LINE",
+"156 12 LINE",
+"299 155 LINE",
+"441 12 LINE",
+"537 108 LINE",
+"394 250 LINE",
+"537 393 LINE"
 );
 }
 );
