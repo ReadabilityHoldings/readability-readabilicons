@@ -79,14 +79,6 @@
     content: "\e015";
 }
 
-.icon-list-expanded::before {
-    content: "\e016";
-}
-
-.icon-list-condensed::before {
-    content: "\e017";
-}
-
 .icon-read-now::before {
     content: "\e019";
 }
@@ -113,6 +105,42 @@
 
 .icon-recommend::before {
     content: "\e025";
+}
+
+.icon-more::before {
+    content: "\e026";
+}
+
+.icon-sentinel::before {
+    content: "\e027";
+}
+
+.icon-whitney::before {
+    content: "\e028";
+}
+
+.icon-mercury::before {
+    content: "\e029";
+}
+
+.icon-mode-night::before {
+    content: "\e030";
+}
+
+.icon-mode-day::before {
+    content: "\e031";
+}
+
+.icon-check::before {
+    content: "\e032";
+}
+
+.icon-x::before {
+    content: "\e033";
+}
+
+.icon-pencil::before {
+    content: "\e034";
 }
 
 /* --- These styles are just for the demo layout. Nothing to see here --*/
