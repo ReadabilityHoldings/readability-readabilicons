@@ -15,132 +15,140 @@
     font-size: 40px;
 }
 
-.icon-couch::before {
+.icon-couch:before {
     content: "\e018";
 }
 
-.icon-archive::before {
+.icon-archive:before {
     content: "\e001";
 }
 
-.icon-unarchive::before {
+.icon-unarchive:before {
     content: "\e002";
 }
 
-.icon-style::before {
+.icon-style:before {
     content: "\e003";
 }
 
-.icon-facebook::before {
+.icon-facebook:before {
     content: "\e004";
 }
 
-.icon-twitter::before {
+.icon-twitter:before {
     content: "\e005";
 }
 
-.icon-email::before {
+.icon-email:before {
     content: "\e006";
 }
 
-.icon-favorite::before {
+.icon-favorite:before {
     content: "\e007";
 }
 
-.icon-kindle::before {
+.icon-kindle:before {
     content: "\e008";
 }
 
-.icon-epub::before {
+.icon-epub:before {
     content: "\e009";
 }
 
-.icon-print::before {
+.icon-print:before {
     content: "\e010";
 }
 
-.icon-left-triangle::before {
+.icon-left-triangle:before {
     content: "\e011";
 }
 
-.icon-right-triangle::before {
+.icon-right-triangle:before {
     content: "\e012";
 }
 
-.icon-delete::before {
+.icon-delete:before {
     content: "\e013";
 }
 
-.icon-tag::before {
+.icon-tag:before {
     content: "\e014";
 }
 
-.icon-add::before {
+.icon-add:before {
     content: "\e015";
 }
 
-.icon-read-now::before {
+.icon-read-now:before {
     content: "\e019";
 }
 
-.icon-read-later::before {
+.icon-read-later:before {
     content: "\e020";
 }
 
-.icon-settings::before {
+.icon-settings:before {
     content: "\e021";
 }
 
-.icon-share::before {
+.icon-share:before {
     content: "\e022";
 }
 
-.icon-down-triangle::before {
+.icon-down-triangle:before {
     content: "\e023";
 }
 
-.icon-hamburger::before {
+.icon-hamburger:before {
     content: "\e024";
 }
 
-.icon-recommend::before {
+.icon-recommend:before {
     content: "\e025";
 }
 
-.icon-more::before {
+.icon-more:before {
     content: "\e026";
 }
 
-.icon-sentinel::before {
+.icon-sentinel:before {
     content: "\e027";
 }
 
-.icon-whitney::before {
+.icon-whitney:before {
     content: "\e028";
 }
 
-.icon-mercury::before {
+.icon-mercury:before {
     content: "\e029";
 }
 
-.icon-mode-night::before {
+.icon-mode-night:before {
     content: "\e030";
 }
 
-.icon-mode-day::before {
+.icon-mode-day:before {
     content: "\e031";
 }
 
-.icon-check::before {
+.icon-check:before {
     content: "\e032";
 }
 
-.icon-x::before {
+.icon-x:before {
     content: "\e033";
 }
 
-.icon-pencil::before {
+.icon-pencil:before {
     content: "\e034";
+}
+
+.icon-search:before {
+    content: "\e035";
+}
+
+.icon-avatar:before {
+    content: "\e036";
 }
 
 /* --- These styles are just for the demo layout. Nothing to see here --*/
