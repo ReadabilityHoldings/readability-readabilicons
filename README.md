@@ -10,8 +10,9 @@ SCSS module when you add new glyphs. Here's an encoder: [http://www.opinionatedg
 Also, keep an eye on the id for the .svg. Fontsquirrel, generally keeps it the same
 but It might be different.
 
-### Read and reference this article
-http://blog.fogcreek.com/trello-uses-an-icon-font-and-so-can-you/
+### Reference
+- http://blog.fogcreek.com/trello-uses-an-icon-font-and-so-can-you/
+- http://bendunkle.com/designing-dashicons/
 
 ### Adding a new Glyph
 - You'll need
